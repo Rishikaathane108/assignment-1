@@ -1,0 +1,41 @@
+img {
+    size: 700px;
+}
+.assignment {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+      text-emphasis: bolder;
+      font-size: 45px;
+  }
+  .left {
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+.center {
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 8px;
+    left: 45%;
+}
+
+.right {
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+
+.bottom {
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 16px;
+    bottom: -250px;
+}
